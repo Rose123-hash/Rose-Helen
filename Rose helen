@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Rose Hellen | College Radio Promoter</title>
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      background-color: #f9f9ff;
+      color: #222;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+    }
+
+    header {
+      background: linear-gradient(120deg, #6a5acd, #836fff);
+      color: white;
+      text-align: center;
+      padding: 80px 20px;
+    }
+
+    header h1 {
+      font-size: 2.8em;
+      margin-bottom: 10px;
+    }
+
+    header p {
+      font-size: 1.2em;
+      opacity: 0.9;
+    }
+
+    section {
+      padding: 60px 20px;
+      max-width: 1000px;
+      margin: auto;
+    }
+
+    h2 {
+      color: #6a5acd;
+      border-left: 5px solid #6a5acd;
+      padding-left: 10px;
+      margin-bottom: 20px;
+    }
+
+    .services, .why, .contact {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+      padding: 30px;
+      margin-bottom: 40px;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background: #6a5acd;
+      color: white;
+      padding: 12px 25px;
+      border-radius: 8px;
+      text-decoration: none;
+      font-weight: 600;
+      transition: 0.3s;
+    }
+
+    .cta-button:hover {
+      background: #483d8b;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px;
+      background: #f0f0fa;
+      color: #444;
+    }
+
+    @media (max-width: 768px) {
+      header h1 { font-size: 2em; }
+      header p { font-size: 1em; }
+    }
+  </style>
+</head>
+
+<body>
+
+  <header>
+    <h1>Rose Hellen 🎧</h1>
+    <p>College Radio Promoter & Indie Artist Growth Expert</p>
+    <a href="https://www.fiverr.com/s/R7KbLqL" class="cta-button" target="_blank">Work with Me on Fiverr</a>
+  </header>
+
+  <section>
+    <h2>About Me</h2>
+    <p>Hi, I’m <strong>Rose Hellen</strong> — a passionate music promoter helping independent artists get real exposure through verified U.S. college radio stations. 
+    My goal is simple: to help your music reach real listeners, gain airplay, and grow your fanbase without bots or fake numbers.</p>
+  </section>
+
+  <section class="services">
+    <h2>My Services</h2>
+    <ul>
+      <li><strong>📻 College Radio Airplay:</strong> Get your track pitched to verified stations for real spins.</li>
+      <li><strong>🎧 Spotify Growth:</strong> Placement on targeted playlists to increase real streams.</li>
+      <li><strong>🎥 YouTube Music Promotion:</strong> Reach real fans through niche music channels.</li>
+      <li><strong>🎤 DJ & Press Outreach:</strong> Connect your song to DJs, radio hosts, and media outlets.</li>
+    </ul>
+  </section>
+
+  <section class="why">
+    <h2>Why College Radio?</h2>
+    <p>College Radio is where real artist credibility begins. It builds your presence among engaged listeners and helps your music stand out. 
+    You’ll receive DJ feedback, radio interviews, and proof of airplay — all of which can attract industry attention and fans who actually care about your sound.</p>
+  </section>
+
+  <section class="services">
+    <h2>Success Stories</h2>
+    <p>🎵 <strong>Jaylen Rivers</strong> – 10+ verified radio placements, 5K+ organic new listeners. <br>
+       🎶 <strong>Tasha Grey</strong> – Featured on “The Indie Hour” college radio show and gained new fans. <br>
+       📈 Many indie artists have trusted my campaigns to build their reputation with real exposure and credibility.</p>
+  </section>
+
+  <section class="contact">
+    <h2>Contact Me</h2>
+    <p>📧 Email: <a href="mailto:rosehelen64747@gmail.com">rosehelen64747@gmail.com</a><br>
+       🌐 Fiverr: <a href="https://www.fiverr.com/s/R7KbLqL" target="_blank">https://www.fiverr.com/s/R7KbLqL</a></p>
+    <a href="https://www.fiverr.com/s/R7KbLqL" class="cta-button" target="_blank">Start Your Campaign</a>
+  </section>
+
+  <footer>
+    <p>© 2025 Rose Hellen | College Radio Promoter</p>
+  </footer>
+
+</body>
+</html>
